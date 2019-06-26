@@ -1,0 +1,18 @@
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\obj\Debug\SOUNDS_PACKING_PROJECT.Main.resources
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\obj\Debug\SOUNDS_PACKING_PROJECT.Properties.Resources.resources
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\obj\Debug\SOUNDS PACKING PROJECT.csproj.GenerateResource.Cache
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\SOUNDS PACKING PROJECT.exe.config
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\SOUNDS PACKING PROJECT.exe
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\SOUNDS PACKING PROJECT.pdb
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\obj\Debug\SOUNDS PACKING PROJECT.exe
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\obj\Debug\SOUNDS PACKING PROJECT.pdb
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\LiveCharts.dll
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\LiveCharts.pdb
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\LiveCharts.xml
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Safwan Saramijou\Desktop\SOUNDS PACKING PROJECT\SOUNDS PACKING PROJECT\obj\Debug\SOUNDS PACKING PROJECT.csprojResolveAssemblyReference.cache
